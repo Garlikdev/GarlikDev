@@ -13,8 +13,8 @@
   <a href="mailto:krz.andrukiewicz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/IgorWnek?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/IgorWnek?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  <a href="https://github.com/GarlikDev?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GarlikDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
 </p>
 
