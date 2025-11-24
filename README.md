@@ -13,8 +13,8 @@
   <a href="mailto:krzand@proton.me">
     <img src="https://img.shields.io/badge/Proton_Mail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
-  <a href="https://github.com/GarlikDev?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GarlikDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  <a href="https://github.com/GarlikDev">
+    <img alt="GitHub Profile" title="Visit GitHub Profile" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -36,6 +36,13 @@ I'm a frontend developer specializing in **React** and **TypeScript** since 2020
 - Developed admin panels with automated workflows
 - Created animated UI components for gaming platforms
 - Migrated legacy systems to modern tech stacks
+
+### 🎯 Currently
+
+- 🔍 Building scalable React applications
+- 📚 Exploring advanced TypeScript patterns
+- 🚀 Contributing to gaming community project
+- 💬 Happy to discuss frontend architecture & best practices
 
 ---
 
@@ -67,13 +74,18 @@ I'm a frontend developer specializing in **React** and **TypeScript** since 2020
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <a href="https://github.com/GarlikDev">
-    <img src="https://github-readme-stats.vercel.app/api?username=GarlikDev&show_icons=true&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/GarlikDev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GarlikDev&theme=dark&hide_border=true" />
-  </a>
-</p>
+<div align="center">
+
+[![GitHub Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GarlikDev&theme=dark)](https://github.com/GarlikDev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarlikDev&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/GarlikDev)
+
+<div align="center">
+  
+**Let's build something amazing together!** 
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=GarlikDev&color=green&label=Profile+Views)](https://github.com/GarlikDev)
+
+</div>
