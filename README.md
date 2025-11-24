@@ -42,6 +42,8 @@ I'm a frontend developer specializing in **React** and **TypeScript** since 2020
 - 🔍 Building scalable React applications
 - 📚 Exploring advanced TypeScript patterns
 - 🚀 Contributing to gaming community project
+
+[![Kacky.gg](https://cdn.kacky.gg/cdn-cgi/image/width=130,format=png,quality=85,fit=scale-down/Asset%207.png)](https://kacky.gg) (Sorry but repo is private! :P)
 - 💬 Happy to discuss frontend architecture & best practices
 
 ---
