@@ -25,11 +25,11 @@
 I'm a frontend developer specializing in **React** and **TypeScript** since 2020. Passionate about building fast, reliable applications with great user experiences.
 
 **What I bring to the table:**
-- 🛠️ 4+ years experience with React ecosystem
-- 🎨 Strong UI/UX sensibilities with Figma expertise
-- 🔧 Problem-solving complex frontend challenges
-- 🚀 Quick adoption of new tools and technologies
-- 🌐 Proven remote collaboration experience
+- Since 2020 specializing in React, Next.js, TypeScript and Node.js
+- Strong UI/UX sensibilities with Figma expertise
+- Problem-solving complex frontend challenges
+- Quick adoption of new tools and technologies
+- Proven remote collaboration experience
 
 **Recent Highlights:**
 - Built e-commerce platforms with React/Node.js stacks
@@ -41,7 +41,6 @@ I'm a frontend developer specializing in **React** and **TypeScript** since 2020
 
 - 🔍 Building scalable React applications
 - 📚 Exploring advanced TypeScript patterns
-- 🚀 Contributing to gaming community project [![Kacky.gg](https://kacky.gg)](https://kacky.gg) (Sorry but repo is private! :P)
 - 💬 Happy to discuss frontend architecture & best practices
 
 ---
