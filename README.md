@@ -1,28 +1,25 @@
-# Krzysztof Andrukiewicz 👨💻
+# Krzysztof Andrukiewicz
 
-**`Frontend Developer (React/TypeScript)`**
+**`Fullstack Developer (React/TypeScript)`**
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=10B981&width=435&lines=Clean+Code+Enthusiast;UI%2FUX+Focus;Problem+Solver" alt="Typing SVG" /></a>
 
-### 📫 Let's Connect
+### Let's Connect
 
 <p align="left">
   <a href="https://andrukiewiczdev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-20B2AA?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-20B2AA" />
   </a>
   <a href="mailto:krzand@proton.me">
-    <img src="https://img.shields.io/badge/Mail-fecdba?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/GarlikDev">
-    <img alt="GitHub Profile" title="Visit GitHub Profile" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-fecdba" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-I'm a frontend developer specializing in **React** and **TypeScript** since 2020. Passionate about building fast, reliable applications with great user experiences.
+I'm a fullstack developer specializing in **React** and **TypeScript** since 2020. Passionate about building fast, reliable applications with great user experiences.
 
 **What I bring to the table:**
 - Since 2020 specializing in React, Next.js, TypeScript and Node.js
@@ -37,15 +34,13 @@ I'm a frontend developer specializing in **React** and **TypeScript** since 2020
 - Created animated UI components for gaming platforms
 - Migrated legacy systems to modern tech stacks
 
-### 🎯 Currently
+### Currently
 
-- 🔍 Building scalable React applications
-- 📚 Exploring advanced TypeScript patterns
-- 💬 Happy to discuss frontend architecture & best practices
+- Looking for remote fullstack/frontend/backend job
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend:**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
@@ -86,7 +81,7 @@ I'm a frontend developer specializing in **React** and **TypeScript** since 2020
 
 ---
 
-### 📊 GitHub Stats & Activity
+### GitHub Stats & Activity
 
 <div align="center">
 
